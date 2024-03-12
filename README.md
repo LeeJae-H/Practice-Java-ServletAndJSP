@@ -11,7 +11,7 @@
 			회원 등록 폼
 		/servlet/MemberSaveServlet.java
 			회원 저장
-		/servlet/MemberListServlet
+		/servlet/MemberListServlet.java
 			회원 목록
 
 ## 2. JSP만 사용
