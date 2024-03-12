@@ -64,7 +64,7 @@
 
 #### ->  3 방법의 한계
 	공통 처리의 어려움, 포워드 코드의 중복, 뷰 이름의 중복, 사용하지 않는 코드 등
-#### ->  3 방법의 대안 ([FrontController](https://github.com/LeeJae-H/Practice-Java-ServletAndJSP/tree/FrontController))
+#### ->  3 방법의 대안 ([FrontController branch](https://github.com/LeeJae-H/Practice-Java-ServletAndJSP/tree/FrontController))
 	컨트롤러 호출 전에 공통 기능을 처리하는 Front Controller 패턴을 도입한다.
  	  
 ---
