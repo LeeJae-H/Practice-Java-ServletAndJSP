@@ -44,7 +44,7 @@
 		- 컨트롤러(서블릿) : 비즈니스 로직을 실행한다.
 		- 모델 : 뷰에 출력할 데이터를 담아둔다.
 		- 뷰(JSP) : 모델에 담겨있는 데이터를 사용해 HTML을 생성한다.
-
+<br></br>
 ### 3. 서블릿과 JSP를 사용한 간단한 MVC 패턴
 	src/main/java/hello/servlet/web
 		/servletmvc/MvcMemberFormServlet.java
