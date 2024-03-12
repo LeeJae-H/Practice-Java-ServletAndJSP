@@ -52,8 +52,9 @@
 
 ### ->  3 방법의 한계
 	공통 처리의 어려움, 포워드 코드의 중복, ViewPath의 중복, 사용하지 않는 코드
-### ->  3 방법의 대안
+### ->  3 방법의 대안 ([FrontController](https://github.com/LeeJae-H/practice-java-spring/tree/FrontController))
 	컨트롤러 호출 전에 공통 기능을 처리하는 Front Controller 패턴을 도입한다.
+ 	  
 ---
 ###### request, response 학습 
 	src/main/java/hello/servlet/basic
